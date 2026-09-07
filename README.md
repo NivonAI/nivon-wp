@@ -1,7 +1,5 @@
 # Nivon AI Chatbot and Agent for WordPress
 
-[![Nivon AI support agent preview](https://nivon.ai/images/og-image.png)](https://nivon.ai/)
-
 Add a Nivon AI support agent to your WordPress website without editing theme files. Train it on your [website](https://nivon.ai/docs/websites-and-urls), [documentation and files](https://nivon.ai/docs/documents-and-files), [FAQs](https://nivon.ai/docs/faqs-and-text-content), and past conversations. It answers customer questions in your team's voice, captures leads, and hands off conversations that need a human.
 
 [![Explore Nivon AI](https://nivon.ai/images/og-image.png)](https://nivon.ai/)
