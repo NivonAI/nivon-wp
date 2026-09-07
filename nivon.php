@@ -100,12 +100,12 @@ add_action( 'admin_init', 'nivon_register_settings' );
  * Where to find the values.
  */
 function nivon_section_intro() {
-	printf(
-		'<p>%s <a href="%s" target="_blank" rel="noopener noreferrer">%s</a>.</p>',
-		esc_html__( 'Copy both values from the Connect to website tab in your', 'nivon' ),
-		esc_url( 'https://nivon.ai' ),
-		esc_html__( 'Nivon dashboard', 'nivon' )
-	);
+printf(
+	'<p>%s <a href="%s" target="_blank" rel="noopener noreferrer">%s</a>.</p>',
+	esc_html__( 'Copy both values from the Agent → Integration tab and paste here', 'nivon' ),
+	esc_url( 'https://app.nivon.ai' ),
+	esc_html__( 'Nivon Dashboard', 'nivon' )
+);
 }
 
 /**
