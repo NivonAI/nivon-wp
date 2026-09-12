@@ -1,5 +1,5 @@
 === Nivon ===
-Contributors: nivonai
+Contributors: Nivon
 Tags: chatbot, ai chatbot, live chat, customer support, ai agent
 Requires at least: 4.7
 Tested up to: 7.1
