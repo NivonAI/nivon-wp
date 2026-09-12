@@ -7,7 +7,7 @@
  * Requires at least: 4.7
  * Requires PHP:      7.0
  * Author:            Nivon AI
- * Author URI:        https://nivon.ai
+ * Author URI:        https://pimjo.com
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       nivon
